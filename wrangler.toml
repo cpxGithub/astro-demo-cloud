@@ -2,7 +2,7 @@
 name = "astro-app"
 compatibility_date = "2024-06-20"
 pages_build_output_dir = "./dist"
-compatibility_flags = [ "nodejs_compat" ]
+# compatibility_flags = [ "nodejs_compat" ]
 # node_compat = true
 
 # Automatically place your workloads in an optimal location to minimize latency.
