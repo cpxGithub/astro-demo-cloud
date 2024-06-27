@@ -10,8 +10,12 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.11.3",
     "@astrojs/check": "^0.5.8",
+    "@astrojs/cloudflare": "^11.0.1",
+    "astro": "^4.11.3",
+    "astro-i18next": "1.0.0-beta.21",
+    "i18next": "^23.11.5",
+    "i18next-fs-backend": "^2.3.1",
     "typescript": "^5.5.2"
   }
 }
