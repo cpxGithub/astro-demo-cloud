@@ -9,10 +9,10 @@ export default defineConfig({
   output: "server",
   integrations: [astroI18next()],
   adapter: cloudflare({
-    mode: 'directory',
-    platformProxy: {
-      enabled: true
-    }
+    // mode: 'directory',
+    // platformProxy: {
+    //   enabled: true
+    // }
   }),
   vite: {
     // plugins: [
